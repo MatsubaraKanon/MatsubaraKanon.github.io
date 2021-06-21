@@ -10,9 +10,9 @@
     </author>
     <updated>2021-06-20T11:27:51.810Z</updated>
     <entry>
-        <id>http://matsubarakanon.github.io/2021/06/20/Java/MyBatis%E7%9A%84%E5%85%B3%E8%81%94%E5%85%B3%E7%B3%BB%E6%98%A0%E5%B0%84/</id>
+        <id>http://matsubarakanon.github.io/2021/06/20/computer-science/MyBatis%E7%9A%84%E5%85%B3%E8%81%94%E5%85%B3%E7%B3%BB%E6%98%A0%E5%B0%84/</id>
         <title>MyBatis的关联关系映射</title>
-        <link rel="alternate" href="http://matsubarakanon.github.io/2021/06/20/Java/MyBatis%E7%9A%84%E5%85%B3%E8%81%94%E5%85%B3%E7%B3%BB%E6%98%A0%E5%B0%84/"/>
+        <link rel="alternate" href="http://matsubarakanon.github.io/2021/06/20/computer-science/MyBatis%E7%9A%84%E5%85%B3%E8%81%94%E5%85%B3%E7%B3%BB%E6%98%A0%E5%B0%84/"/>
         <content type="html">&lt;h1 id=&#34;mybatis的关联关系映射&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mybatis的关联关系映射&#34;&gt;#&lt;/a&gt; MyBatis 的关联关系映射&lt;/h1&gt;
 &lt;h2 id=&#34;环境准备&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#环境准备&#34;&gt;#&lt;/a&gt; 环境准备&lt;/h2&gt;
 &lt;h3 id=&#34;数据库设计&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数据库设计&#34;&gt;#&lt;/a&gt; 数据库设计&lt;/h3&gt;
@@ -163,9 +163,9 @@
         <updated>2021-06-20T11:27:51.810Z</updated>
     </entry>
     <entry>
-        <id>http://matsubarakanon.github.io/2021/06/20/Java/SQL%E6%98%A0%E5%B0%84%E6%96%87%E4%BB%B6/</id>
+        <id>http://matsubarakanon.github.io/2021/06/20/computer-science/SQL%E6%98%A0%E5%B0%84%E6%96%87%E4%BB%B6/</id>
         <title>SQL映射文件</title>
-        <link rel="alternate" href="http://matsubarakanon.github.io/2021/06/20/Java/SQL%E6%98%A0%E5%B0%84%E6%96%87%E4%BB%B6/"/>
+        <link rel="alternate" href="http://matsubarakanon.github.io/2021/06/20/computer-science/SQL%E6%98%A0%E5%B0%84%E6%96%87%E4%BB%B6/"/>
         <content type="html">&lt;h1 id=&#34;sql映射文件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sql映射文件&#34;&gt;#&lt;/a&gt; SQL 映射文件&lt;/h1&gt;
 &lt;h2 id=&#34;sql映射文件-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sql映射文件-2&#34;&gt;#&lt;/a&gt; SQL 映射文件&lt;/h2&gt;
 &lt;p&gt;MyBatis 的真正强大在于它的语句映射，这是它的魔力所在。由于它的异常强大，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9teWJhdGlzLm9yZy9teWJhdGlzLTMvemgvc3FsbWFwLXhtbC5odG1s&#34;&gt;映射器&lt;/span&gt;的 XML 文件就显得相对简单。如果拿它跟具有相同功能的 JDBC 代码进行对比，你会立即发现省掉了将近 95% 的代码。MyBatis 致力于减少使用成本，让用户能更专注于 SQL 代码。&lt;/p&gt;
@@ -296,9 +296,9 @@
         <updated>2021-06-20T10:37:08.927Z</updated>
     </entry>
     <entry>
-        <id>http://matsubarakanon.github.io/2021/06/20/Java/MyBatis%E5%85%A5%E9%97%A8/</id>
+        <id>http://matsubarakanon.github.io/2021/06/20/computer-science/MyBatis%E5%85%A5%E9%97%A8/</id>
         <title>MyBatis入门</title>
-        <link rel="alternate" href="http://matsubarakanon.github.io/2021/06/20/Java/MyBatis%E5%85%A5%E9%97%A8/"/>
+        <link rel="alternate" href="http://matsubarakanon.github.io/2021/06/20/computer-science/MyBatis%E5%85%A5%E9%97%A8/"/>
         <content type="html">&lt;h1 id=&#34;mybatis入门&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mybatis入门&#34;&gt;#&lt;/a&gt; MyBatis 入门&lt;/h1&gt;
 &lt;h2 id=&#34;初始mybatis&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#初始mybatis&#34;&gt;#&lt;/a&gt; 初始 MyBatis&lt;/h2&gt;
 &lt;h3 id=&#34;mybatis框架简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mybatis框架简介&#34;&gt;#&lt;/a&gt; MyBatis 框架简介&lt;/h3&gt;

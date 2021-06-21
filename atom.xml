@@ -296,9 +296,9 @@
         <updated>2021-06-20T10:37:08.927Z</updated>
     </entry>
     <entry>
-        <id>http://matsubarakanon.github.io/2021/06/20/MarkDown/MyBatis%E5%85%A5%E9%97%A8/</id>
+        <id>http://matsubarakanon.github.io/2021/06/20/Java/MyBatis%E5%85%A5%E9%97%A8/</id>
         <title>MyBatis入门</title>
-        <link rel="alternate" href="http://matsubarakanon.github.io/2021/06/20/MarkDown/MyBatis%E5%85%A5%E9%97%A8/"/>
+        <link rel="alternate" href="http://matsubarakanon.github.io/2021/06/20/Java/MyBatis%E5%85%A5%E9%97%A8/"/>
         <content type="html">&lt;h1 id=&#34;mybatis入门&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mybatis入门&#34;&gt;#&lt;/a&gt; MyBatis 入门&lt;/h1&gt;
 &lt;h2 id=&#34;初始mybatis&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#初始mybatis&#34;&gt;#&lt;/a&gt; 初始 MyBatis&lt;/h2&gt;
 &lt;h3 id=&#34;mybatis框架简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mybatis框架简介&#34;&gt;#&lt;/a&gt; MyBatis 框架简介&lt;/h3&gt;
